@@ -1,0 +1,15 @@
+accession	library	animal	time	condition	biological_unit_rule
+GSE302936	AB-1_S10	AB-1	day 14	endpoint	independent animal
+GSE302936	AB-2_S11	AB-2	day 14	endpoint	independent animal
+GSE302936	AB-3_S12	AB-3	day 14	endpoint	independent animal
+GSE302936	Naive-1_S13	Naive-1	naive	control	independent animal
+GSE302936	Naive-2_S14	Naive-2	naive	control	independent animal
+GSE302936	Naive-3_S15	Naive-3	naive	control	independent animal
+GSE328779	GSM9689606	594E	day 7	injured eye	paired within rabbit
+GSE328779	GSM9689608	594E	day 7	contralateral control	paired within rabbit
+GSE328779	GSM9689607	616E	day 7	injured eye	paired within rabbit
+GSE328779	GSM9689609	616E	day 7	contralateral control	paired within rabbit
+GSE328779	GSM9689610	595E	day 28	injured eye	paired within rabbit
+GSE328779	GSM9689612	595E	day 28	contralateral control	paired within rabbit
+GSE328779	GSM9689611	596E	day 28	injured eye	paired within rabbit
+GSE328779	GSM9689613	596E	day 28	contralateral control	paired within rabbit

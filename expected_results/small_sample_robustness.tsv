@@ -1,0 +1,7 @@
+dataset	module	expected_direction	pairwise_expected_direction_count	pairwise_total	pairwise_fraction	leave_one_expected_direction_count	leave_one_total	leave_one_fraction	minimum_leave_one_delta	maximum_leave_one_delta	minimum_absolute_leave_one_delta
+GSE302936	contractile	positive	9	9	1.0	9	9	1.0	0.5703494678322375	0.8718750787672739	0.5703494678322375
+GSE302936	matricellular	positive	9	9	1.0	9	9	1.0	0.24846176409458282	0.4434098742296871	0.24846176409458282
+GSE302936	LOX_LOXL2	positive	9	9	1.0	9	9	1.0	0.1305668462023562	0.2269604511827027	0.1305668462023562
+GSE302936	ECM_remodeling	positive	9	9	1.0	9	9	1.0	0.08090832976185816	0.22834506355759637	0.08090832976185816
+GSE302936	keratocyte_associated_identity_KRT12_excluded	negative	9	9	1.0	9	9	1.0	-0.4555182839253431	-0.3504279378415063	0.3504279378415063
+GSE302936	collagen	positive	7	9	0.7777777777777778	8	9	0.8888888888888888	-0.0006324532243405789	0.1155100194286437	0.0006324532243405789

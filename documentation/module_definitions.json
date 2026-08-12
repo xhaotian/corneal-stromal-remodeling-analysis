@@ -1,0 +1,73 @@
+{
+  "contractile": [
+    "ACTA2",
+    "TAGLN",
+    "MYL9",
+    "CNN1",
+    "TPM1",
+    "TPM2",
+    "CALD1"
+  ],
+  "matricellular": [
+    "POSTN",
+    "SPARC",
+    "TGFBI",
+    "FN1",
+    "TNC",
+    "THBS1",
+    "CTGF",
+    "CYR61"
+  ],
+  "collagen": [
+    "COL1A1",
+    "COL1A2",
+    "COL3A1",
+    "COL5A1",
+    "COL5A2",
+    "COL6A1",
+    "COL6A2",
+    "LOX",
+    "LOXL1",
+    "LOXL2"
+  ],
+  "ECM_remodeling": [
+    "MMP2",
+    "MMP9",
+    "MMP14",
+    "ADAMTS2",
+    "ADAMTS4",
+    "TIMP1",
+    "TIMP2",
+    "PLAU",
+    "PLAUR"
+  ],
+  "LOX_LOXL2": [
+    "LOX",
+    "LOXL1",
+    "LOXL2",
+    "PLOD2"
+  ],
+  "keratocyte_associated_identity_current": [
+    "KERA",
+    "LUM",
+    "DCN",
+    "ALDH3A1",
+    "KRT12",
+    "AQP1",
+    "PTGDS"
+  ],
+  "keratocyte_associated_identity_KRT12_excluded": [
+    "KERA",
+    "LUM",
+    "DCN",
+    "ALDH3A1",
+    "AQP1",
+    "PTGDS"
+  ],
+  "strict_keratocyte_core": [
+    "KERA",
+    "LUM",
+    "DCN",
+    "PTGDS"
+  ]
+}

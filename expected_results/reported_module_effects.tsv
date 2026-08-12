@@ -1,0 +1,15 @@
+dataset	module	comparison	value
+GSE302936	Contractile	endpoint_minus_naive_control	0.7288742862107256
+GSE302936	Matricellular	endpoint_minus_naive_control	0.3507657356263531
+GSE302936	LOX/LOXL2	endpoint_minus_naive_control	0.1692412252028231
+GSE302936	Collagen	endpoint_minus_naive_control	0.0738313094326886
+GSE302936	ECM remodeling	endpoint_minus_naive_control	0.1577917927117815
+GSE302936	Keratocyte-associated identity	endpoint_minus_naive_control	-0.3984401197997662
+GSE328779	Contractile	day7_residual_minus_day28_residual	0.4048380445322568
+GSE328779	Matricellular	day7_residual_minus_day28_residual	0.1783258318741007
+GSE328779	LOX/LOXL2	day7_residual_minus_day28_residual	0.1814645537343694
+GSE328779	Collagen	day7_residual_minus_day28_residual	0.1191988986241643
+GSE328779	ECM remodeling	day7_residual_minus_day28_residual	0.1525735768327857
+GSE328779	Keratocyte-associated identity	day7_residual_minus_day28_residual	-0.054121461980339
+GSE328779	Inflammation-associated response	day7_residual_minus_day28_residual	0.1392497292976025
+

@@ -1,0 +1,17 @@
+dataset	module	original_direction	sample_balanced_direction	original_delta	sample_balanced_delta	direction_retained	contrast_definition
+GSE302936	contractile	expected	expected	0.7288742862107256	1.7640339000399274	True	endpoint minus naive/control
+GSE302936	matricellular	expected	expected	0.35076573562635316	1.000904092306861	True	endpoint minus naive/control
+GSE302936	collagen	expected	reversed	0.07383130943268867	-0.6980087332370225	False	endpoint minus naive/control
+GSE302936	ECM_remodeling	expected	expected	0.1577917927117814	1.1278660355540109	True	endpoint minus naive/control
+GSE302936	LOX_LOXL2	expected	expected	0.16924122520282303	0.5941042389750986	True	endpoint minus naive/control
+GSE302936	keratocyte_associated_identity_current	expected	expected	-0.39844011979976623	-1.8103401769388832	True	endpoint minus naive/control
+GSE302936	keratocyte_associated_identity_KRT12_excluded	expected	expected	-0.3984401197997661	-1.8103401769388832	True	endpoint minus naive/control
+GSE302936	strict_keratocyte_core	expected	expected	-0.4409047531247018	-1.833094315224297	True	endpoint minus naive/control
+GSE302936	inflammation_associated_response	expected	expected	0.09989829457005754	1.187984360197519	True	endpoint minus naive/control
+GSE328779	contractile	expected	expected	0.40483804453225686	1.961485914676326	True	mean day-7 paired-eye residual minus mean different-day-28 paired-eye residual
+GSE328779	matricellular	expected	expected	0.17832583187410064	0.8332596391229847	True	mean day-7 paired-eye residual minus mean different-day-28 paired-eye residual
+GSE328779	collagen	expected	expected	0.11919889862416415	0.6647423101545227	True	mean day-7 paired-eye residual minus mean different-day-28 paired-eye residual
+GSE328779	ECM_remodeling	expected	expected	0.15257357683278575	0.4793879584261706	True	mean day-7 paired-eye residual minus mean different-day-28 paired-eye residual
+GSE328779	LOX_LOXL2	expected	expected	0.18146455373436945	1.0329354854034485	True	mean day-7 paired-eye residual minus mean different-day-28 paired-eye residual
+GSE328779	keratocyte_associated_identity_current	expected	expected	-0.0541214619803389	-0.40487542640357704	True	mean day-7 paired-eye residual minus mean different-day-28 paired-eye residual
+GSE328779	inflammation_associated_response	expected	expected	0.13924972929760257	1.4254411818241466	True	mean day-7 paired-eye residual minus mean different-day-28 paired-eye residual
