@@ -69,5 +69,17 @@
     "LUM",
     "DCN",
     "PTGDS"
+  ],
+  "inflammation_associated_response": [
+    "IL1B",
+    "TNF",
+    "CCL2",
+    "CXCL8",
+    "PTGS2",
+    "S100A8",
+    "S100A9",
+    "IL6",
+    "OSM",
+    "SOCS3"
   ]
 }

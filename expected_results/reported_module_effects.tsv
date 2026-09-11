@@ -5,6 +5,7 @@ GSE302936	LOX/LOXL2	endpoint_minus_naive_control	0.1692412252028231
 GSE302936	Collagen	endpoint_minus_naive_control	0.0738313094326886
 GSE302936	ECM remodeling	endpoint_minus_naive_control	0.1577917927117815
 GSE302936	Keratocyte-associated identity	endpoint_minus_naive_control	-0.3984401197997662
+GSE302936	Inflammation-associated response	endpoint_minus_naive_control	0.0998982945700575
 GSE328779	Contractile	day7_residual_minus_day28_residual	0.4048380445322568
 GSE328779	Matricellular	day7_residual_minus_day28_residual	0.1783258318741007
 GSE328779	LOX/LOXL2	day7_residual_minus_day28_residual	0.1814645537343694
